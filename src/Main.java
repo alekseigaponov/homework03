@@ -44,7 +44,6 @@ public class Main {
         // 4 task NumberManipulator
         NumberManipulator manipulator = new NumberManipulator();
 
-
         int number = 6;
         System.out.println("Initial number: " + number);
 
